@@ -1,7 +1,3 @@
-- I love computing, games and hacking...
-- If you want to find me: https://twitter.com/jigordev
+I'm a software developer and entrepreneur, currently working with Python, Rust, Elixir, and Lua. I enjoy contributing to the open-source movement.
 
-<!---
-jigordev/jigordev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou um empreendedor e desenvolvedor de software que atualmente se dedica a projetos em Python, Rust, Elixir e Lua. Tenho um forte interesse em contribuir para a comunidade de código aberto.
