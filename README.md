@@ -1,3 +1,3 @@
-I'm a software developer, currently working with Python, Rust, Typescript, and Lua. I enjoy contributing to the open-source movement.
+I am a software developer specializing in developing web applications with clean, performant and scalable code. I have worked with Python, Typescript and Rust.
 
-Sou um desenvolvedor de software que atualmente se dedica a projetos em Python, Rust, Typescript e Lua. Tenho um forte interesse em contribuir para a comunidade de código aberto.
+Sou um desenvolvedor de software especialista em desenvolvimento de aplicações web com código limpo, performático e escalável. Tenho trabalhado com as linguagens Python, Typescript e Rust.
