@@ -1,3 +1,13 @@
-I am a software developer specializing in developing web applications with clean, performant and scalable code. I have worked with Python, PHP, and Typescript.
+I build real infrastructure: large-scale data pipelines, lead intelligence systems, automation platforms and AI-driven services that operate on millions of records, real business flows and production constraints.
 
-Sou um desenvolvedor de software especialista em desenvolvimento de aplicações web com código limpo, performático e escalável. Tenho trabalhado com as linguagens Python, PHP e Typescript.
+My work focuses on:
+
+- High-performance APIs (FastAPI, NestJS)
+- Large-scale data ingestion, enrichment & search
+- Multi-layer caching, distributed queues and background processing
+- Business automation (WhatsApp, e-mail, chatbots, webhooks, workers)
+- AI systems applied to real operational problems
+
+I’m interested in building systems that reduce human work, increase business leverage and become operationally critical.
+
+Most of my repositories are production-oriented components, not tutorials.
